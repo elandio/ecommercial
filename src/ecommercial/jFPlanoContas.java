@@ -35,7 +35,7 @@ import javax.swing.tree.TreePath;
  *
  *
  */
-public class jFPlanoContas extends javax.swing.JFrame {
+public class jFPlanoContas extends javax.swing.JDialog {
 
     /** Creates new form jFPlanoContas */
     public jFPlanoContas() {
